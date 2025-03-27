@@ -45,21 +45,6 @@ Este projeto é uma implementação do clássico jogo Sudoku, desenvolvido para 
 3. Utilize as dicas caso necessário.
 4. Finalize o jogo e tente melhorar seu tempo!
 
-## 🤝 Contribuição
-1. Faça um fork do projeto.
-2. Crie uma branch com a sua melhoria:
-   ```sh
-   git checkout -b minha-melhoria
-   ```
-3. Commit suas alterações:
-   ```sh
-   git commit -m "Adicionando nova funcionalidade ao Sudoku"
-   ```
-4. Envie para o repositório remoto:
-   ```sh
-   git push origin minha-melhoria
-   ```
-5. Abra um Pull Request.
 
 ## 📖 Referências
 - [Regras do Sudoku](https://sudoku.com/how-to-play/sudoku-rules-for-complete-beginners/)
